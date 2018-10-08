@@ -1,7 +1,9 @@
 # hello-bindu
 Hey, This is Bindu
-I am from San Francisco,
-How are you there?
+I am origionally from Nepal.
+How are you there...>???
 
 
-This is his husband's work.
+This is my husband's work.
+
+I still want to add contents on it.
